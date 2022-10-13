@@ -37,7 +37,7 @@ body {
   padding: 0;
   min-height: 100vh;
   display: flex;
-  background-image: linear-gradient(190deg, rgb(0, 0, 0) 9%,
+  background: linear-gradient(190deg, rgb(0, 0, 0) 9%,
         rgba(28, 4, 63, 0.777) 60%);
         display: flex;
         justify-content: center;
